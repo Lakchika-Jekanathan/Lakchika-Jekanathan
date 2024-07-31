@@ -4,6 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello...+👋;+I'm+Lakchika!;" />
 </h1>
 
+<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+
+<h3 align="left">Connect with me:</h3>
+
+
 <div align="center"> 
   <a href="mailto:pedro.sales.laksika2001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
